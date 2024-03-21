@@ -25,7 +25,7 @@ if(answers.Operators === "Addition"){
 }  else if(answers.Operators === "Subtraction"){
     console.log(answers.FirstNumber - answers.SecondNumber);
 
-} else if(answers.Operators === "Multiplictaion"){
+} else if(answers.Operators === "Multiplication"){
     console.log(answers.FirstNumber * answers.SecondNumber);
 
 } else if(answers.Operators === "Division"){
